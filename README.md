@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GoMax29
 - 👀 I’m interested in Photography, Music (all kinds, Classical to UK indie) cooking "Marinades & Plats en sauce", mathematic riddles
-- 🌱 I’m currently learning : #surfing @LaTorche:Brittany, #surfskate, #Cryptcurrency, #Solidity, #Alyra
+- 🌱 I’m currently learning : #surfing, #surfskate, #Cryptcurrency, #Solidity, #Alyra
 - 💞️ I’m looking to collaborate on : EVM dev project
 - 📫 How to reach me :
 - 😄 Pronouns: ...
